@@ -1,5 +1,5 @@
 # flash-card_inter_GUI_LEARN_ENGLISH_PROGRAM
-<hr size="3">
+<hr>
 <br>
 ![image](https://user-images.githubusercontent.com/67830778/168883056-fa976cf0-b1c8-4402-aad9-d0d9aafd26b7.png)
 
