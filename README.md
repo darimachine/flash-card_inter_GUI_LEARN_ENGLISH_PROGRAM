@@ -1,6 +1,8 @@
 # flash-card_inter_GUI_LEARN_ENGLISH_PROGRAM
-<hr size=3>
-![image](https://user-images.githubusercontent.com/67830778/168881490-55d75e84-ebdc-4694-9284-e7c8425f65b5.png)
+<hr size="3">
+<br>
+![image](https://user-images.githubusercontent.com/67830778/168883056-fa976cf0-b1c8-4402-aad9-d0d9aafd26b7.png)
+
 <br>
 <hr>
 Learn English Project<br>
